@@ -40,4 +40,5 @@
 		window.VueEditable = VueEditable;
 		Vue.use(VueEditable);
 	};
+	
 })();
